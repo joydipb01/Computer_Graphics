@@ -1,5 +1,6 @@
 # Computer_Graphics
-This repository contains my works on Computer Graphics using OpenGL.<br>It also contains a guide to install Codeblocks and Freeglut on Windows.<br><br>
+This repository contains my works on Computer Graphics using OpenGL.<br>It also contains a guide to install Codeblocks and Freeglut on Windows.<br>
+## List of programs
 <ul>
   <li><b>bar_chart.cpp:</b> Write an OpenGL program to display Bar Chart. You need to include data and the labels as part of the input. The data and labels be placed in a text file and the file name is passed as a command line argument. Proper scaling of the display should be done so that the bar chart fits in the display window properly.</li>
   <li><b>bresenham_line.cpp:</b> Implement Bresenham's line drawing algorithm between any two points on 2D space. User selects the start and end pixels using mouse click and your program should draw line between the selected points. User will keep on selecting start and end pixels of sequence of lines and and keep on drawing the lines until user closes the program.</li>
